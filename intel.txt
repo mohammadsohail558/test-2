@@ -1,3 +1,6 @@
 Hi this is a sample file
-
 sample 2x
+un-necessary corrections
+devops
+aws
+azure
