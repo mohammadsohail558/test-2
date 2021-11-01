@@ -1,6 +1,5 @@
 Hi this is a sample file
-sample 2x
-un-necessary corrections
-devops
-aws
-azure
+#!/bin/bash
+yum update -y
+yum upgrade -y
+yum install git -y
